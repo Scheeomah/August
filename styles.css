@@ -1,0 +1,27 @@
+* {
+    background-color: blueviolet;
+}
+
+.first {
+    background-color: cadetblue;
+}
+
+.second {
+    background-color: coral;
+}
+
+li {
+    background-color: crimson;
+}
+
+ul li {
+    background-color:deeppink;
+}
+
+#initial {
+    background-color:chartreuse ;
+}
+
+.round {
+ background-color: dodgerblue;
+}
